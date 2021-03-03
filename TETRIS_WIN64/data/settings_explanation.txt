@@ -1,0 +1,10 @@
+HOLD - T or F - T=true, F=false
+TIME IN MILLISECONDS AFTER DEATH WITHOUT REACTING ON KEYBOARD (so you can see game over screen)
+MUSIC TYPE - 0-3
+COLOR - I piece - example: 0,255,255 - 0 red, full green and full blue - cyan color
+COLOR - J piece
+COLOR - L piece
+COLOR - O piece
+COLOR - S piece
+COLOR - T piece
+COLOR - Z piece
